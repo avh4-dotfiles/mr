@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/bash.git]
+checkout = vcsh clone git@github.com:avh4-dotfiles/bash.git bash
